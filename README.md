@@ -1,3 +1,5 @@
+!! Will not work on Windows !!
+
 Make sure you have NodeJS installed on your computer/server
 
 Download and unpack this repository
