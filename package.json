@@ -1,0 +1,14 @@
+{
+  "name": "stopserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stopserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeordy Bouck / GrafiStore",
+  "license": "ISC",
+  "dependencies": {
+    "find-process": "^1.4.4"
+  }
+}
